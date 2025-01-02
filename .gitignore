@@ -1,1 +1,5 @@
 /data_source_separation
+/tb_logs
+/__pycache__
+/.vscode
+*.pyc
